@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="des-crypto-java:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/des_crypto_java_jar</output-path>
+    <root id="archive" name="des-crypto-java.jar">
+      <element id="module-output" name="des-crypto-java" />
+    </root>
+  </artifact>
+</component>
